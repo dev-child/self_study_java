@@ -1,0 +1,10 @@
+package Chap06.sec02.exam02;
+
+public class FieldInitValueExample {
+    public static void main(String[] args) {
+        FieldInitValue fiv = new FieldInitValue();
+
+
+        System.out.println("byteField : " + fiv.byteField);
+    }
+}
