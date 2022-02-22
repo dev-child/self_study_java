@@ -36,7 +36,9 @@ class A {
             }
             int filed1;
 
-            void method1() {}
+            void method1() {
+
+            }
 
         }
 
